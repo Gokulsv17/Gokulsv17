@@ -45,9 +45,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Gokulsv17/Gokulsv17/output/snake.svg" alt="Snake animation" />
-
-###
